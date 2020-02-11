@@ -1,0 +1,4 @@
+TASK 1 Github (FEB 11, 2020)
+- Create a github account (if you have one you may use your existing account)
+- Verify your github account to your email
+- Clone batch4_feb2020 repository
