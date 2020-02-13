@@ -23,3 +23,14 @@ Group 3 Tor web browser
 - Purpose
 - Features
 - Why Tor?
+
+
+TASK 3 Reporting and presentaton (FEB 13, 2020)
+
+Presentation about:
+
+Group 1 Facebook
+Group 2 Kickstarter
+Group 3 Artificial Intelligence
+
+Create a website presentation. HTML5, CSS and JS
