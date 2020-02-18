@@ -2,3 +2,38 @@ TASK 1 Github (FEB 11, 2020)
 - Create a github account (if you have one you may use your existing account)
 - Verify your github account to your email
 - Clone batch4_feb2020 repository
+<<<<<<< HEAD
+=======
+
+
+TASK 2 Reporting and presentation (FEB 11, 2020)
+
+Group 1 Linux operating system
+- History
+- Features
+- Flavors of Linux
+- Why Linux?
+
+Group 2 Website hosting
+- Introduction
+- Purpose
+- Comparisons
+- Best practices
+
+Group 3 Tor web browser
+- Introduction
+- Purpose
+- Features
+- Why Tor?
+
+
+TASK 3 Reporting and presentaton (FEB 13, 2020)
+
+Presentation about:
+
+Group 1 Facebook
+Group 2 Kickstarter
+Group 3 Artificial Intelligence
+
+Create a website presentation. HTML5, CSS and JS
+>>>>>>> 392670bad358792e89e301eead35f51aa17198af
