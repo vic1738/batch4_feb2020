@@ -34,3 +34,10 @@ Group 2 Kickstarter
 Group 3 Artificial Intelligence
 
 Create a website presentation. HTML5, CSS and JS
+
+
+TASK 4 PHP Basics (FEB 18, 2020)
+Create an ATM machine using PHP script. Your PHP script must be able to count a number of bills. So it will dispense a certain count of bills.
+
+Example
+If I put 3800, the ATM will dispense 3 Php 1,000 bills, 1 Php 500 bill, 1 Php 200 bill and 1 Php 100 bill. A total of 6 bills to be dispensed worth Php 3,800.
