@@ -43,3 +43,22 @@ Create an ATM machine using PHP script. Your PHP script must be able to count a 
 
 Example
 If I put 3800, the ATM will dispense 3 Php 1,000 bills, 1 Php 500 bill, 1 Php 200 bill and 1 Php 100 bill. A total of 6 bills to be dispensed worth Php 3,800.
+
+
+TASK 5 Github Folder (FEB 19, 2020)
+- In your batch4_feb2020 repository, create your own folder with your first and last name LASTNAME_FIRSTNAME
+- Organize your tasks within your folder
+
+DO NOT MODIFY TASKS.txt
+
+
+TASK 5.1 Reporting and presentation (For those who failed to present last FEB 18, 2020)
+
+Virtual Reality
+- FRANCHESCA MAE GIANAN
+- ALLEN CASCO
+- SALANDANAN MICO
+
+Augmented Reality
+- DAVID MAGTALAS
+- VICTOR LOPEZ
