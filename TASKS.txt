@@ -2,8 +2,6 @@ TASK 1 Github (FEB 11, 2020)
 - Create a github account (if you have one you may use your existing account)
 - Verify your github account to your email
 - Clone batch4_feb2020 repository
-<<<<<<< HEAD
-=======
 
 
 TASK 2 Reporting and presentation (FEB 11, 2020)
@@ -62,3 +60,13 @@ Virtual Reality
 Augmented Reality
 - DAVID MAGTALAS
 - VICTOR LOPEZ
+
+
+TASK 6 Loops and functions (FEB 20, 2020)
+- Create a calculator with PHP script which uses only add() and subtract() function. The calculator must be able to add, subtract, multiply, divide and find the power of a number.
+
+
+TASK 7 Get and Post (FEB 20, 2020)
+- Create a php script which sends 2 numbers and selects for a specific function of your calculator and process the result in the next page.
+- 2 php files (calculator.php, process.php)
+- You can use GET or POST methods
